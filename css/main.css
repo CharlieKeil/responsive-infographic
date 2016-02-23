@@ -18,7 +18,6 @@ box-sizing: inherit;
 
 html {
   background-color: #a7dcf3;
-
 }
 
 .head-ban {
@@ -42,37 +41,18 @@ p {
   font-weight: 400;
 }
 
-.good {
-
-}
-
 .big-brain {
   width: 50%;
   right: 50%;
   z-index: 2;
-
 }
 
 .beer-1 {
   width: 100%;
   position: relative;
-
 }
 
 .coffee-1 {
   width: 100%;
   position: relative;
-
-}
-
-.bad {
-
-}
-
-.beer-2 {
-
-}
-
-.coffee-2 {
-
 }
