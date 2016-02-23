@@ -15,3 +15,45 @@ text-size-adjust: 100%;
 *, *::before, *::after {
 box-sizing: inherit;
 }
+
+.head-ban {
+  width: 100%;
+  top: 50px;
+  position: relative;
+
+}
+
+.good {
+
+}
+
+.big-brain {
+  width: 50%;
+  right: 50%;
+  z-index: 2;
+
+}
+
+.beer-1 {
+  width: 100%;
+  position: relative;
+
+}
+
+.coffee-1 {
+  width: 100%;
+  position: relative;
+
+}
+
+.bad {
+
+}
+
+.beer-2 {
+
+}
+
+.coffee-2 {
+
+}
