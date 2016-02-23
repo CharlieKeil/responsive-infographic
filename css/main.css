@@ -27,6 +27,11 @@ html {
   position: relative;
 }
 
+.border {
+  border: 5px dashed white;
+  background-color: #27aae1;
+}
+
 h2 {
   font-family: 'raleway', sans-serif;
   font-weight: 900;
